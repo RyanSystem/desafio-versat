@@ -1,0 +1,12 @@
+C:\Users\muril\OneDrive\Área de Trabalho\setup - versat\versat.exe
+C:\Users\muril\OneDrive\Área de Trabalho\setup - versat\versat.dll
+C:\Users\muril\OneDrive\Área de Trabalho\setup - versat\versat.deps.json
+C:\Users\muril\OneDrive\Área de Trabalho\setup - versat\versat.runtimeconfig.json
+C:\Users\muril\OneDrive\Área de Trabalho\setup - versat\versat.dll.config
+C:\Users\muril\OneDrive\Área de Trabalho\setup - versat\versat.pdb
+C:\Users\muril\OneDrive\Área de Trabalho\setup - versat\System.Data.SqlClient.dll
+C:\Users\muril\OneDrive\Área de Trabalho\setup - versat\runtimes\win-arm64\native\sni.dll
+C:\Users\muril\OneDrive\Área de Trabalho\setup - versat\runtimes\win-x64\native\sni.dll
+C:\Users\muril\OneDrive\Área de Trabalho\setup - versat\runtimes\win-x86\native\sni.dll
+C:\Users\muril\OneDrive\Área de Trabalho\setup - versat\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\muril\OneDrive\Área de Trabalho\setup - versat\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
